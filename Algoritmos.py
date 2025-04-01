@@ -13,8 +13,12 @@ print(2*a*3*b)
 #soma = num1+num2+num3
 #print(soma)
 
-num1 = int(input("Número 1 = "))
-num2 = int(input("Número 2 = "))
-num3 = int(input("Número 3 = "))
-soma = num1+num2+num3
-print(soma)
+#num1 = int(input("Número 1 = "))um2 = int(input("Número 2 = "n))
+#num3 = int(input("Número 3 = "))
+#soma = num1+num2+num3
+#print(soma)
+
+if media_final >= 6:
+    print("Aprovado!")
+else:
+    print("Reprovado!")
